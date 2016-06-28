@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CGGradient-04/CGGradient-04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CGShading-03/CGShading-03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CGPattern-02/CGPattern-02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CoreGraphics-01/CoreGraphics-01.xcodeproj">
+   </FileRef>
+</Workspace>
